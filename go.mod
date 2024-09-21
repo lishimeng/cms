@@ -3,7 +3,7 @@ module github.com/lishimeng/cms
 go 1.23.1
 
 require (
-	github.com/lishimeng/app-starter v1.19.4
+	github.com/lishimeng/app-starter v1.19.5
 	github.com/lishimeng/go-log v1.0.0
 )
 
